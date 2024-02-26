@@ -1,6 +1,6 @@
 # 2024-Spring-HW0
 
-All the detailed specified in Homework 0 documentation.
+All the detailed specified in Homework 0 documentation. 
 
 ## Wallet Address
 0x1a6bf4fe045DEc42979BEE09e29e8F542D478026
